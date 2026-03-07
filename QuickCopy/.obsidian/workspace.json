@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desing/Windows/Login Window.md",
+                "file": "Desing/Windows/Sign in Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Login Window"
+              "title": "Sign in Window"
             }
           }
         ]
@@ -202,7 +202,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b7aae8259c4deae",
+  "active": "43396141eb7fd4d6",
   "lastOpenFiles": [
     "Desing/Windows/Login Window.md",
     "Desing/Windows/Sign in Window.md",
