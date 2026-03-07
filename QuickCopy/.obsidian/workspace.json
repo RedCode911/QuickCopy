@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desing/Design.md",
+                "file": "Desing/Windows/Login Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Login Window"
             }
           }
         ]
@@ -202,14 +202,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "43396141eb7fd4d6",
+  "active": "5b7aae8259c4deae",
   "lastOpenFiles": [
-    "Desing/Windows/Windows.md",
-    "Desing/Windows/Editing Window.md",
-    "Desing/Windows/Copy Window.md",
     "Desing/Windows/Login Window.md",
-    "Desing/Windows/Vault Window.md",
+    "Desing/Windows/Sign in Window.md",
+    "Desing/Windows/Copy Window.md",
     "Desing/Design.md",
+    "Desing/Windows/Windows.md",
+    "Desing/Windows/Vault Window.md",
+    "Desing/Windows/Editing Window.md",
     "QuickCopy.md",
     "Desing/Business Layer/BL",
     "Desing/DB/Data Bank.md",
