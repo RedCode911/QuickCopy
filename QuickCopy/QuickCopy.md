@@ -4,9 +4,9 @@ Welcome to QuickCopy. This is an app made by developers for developers. It's mad
 
 ## Developers
 
-| first name | last name |
-| ----- | ---- |
-|Yann | Goeman |
+| first name | last name | code name |
+| ---------- | --------- | --------- |
+| Yann       | Goeman    | RedCode   |
 
 ## Concept
 
@@ -16,6 +16,6 @@ The main feathers of the app would bd a big main screen where you can  adjust th
 
 # [[Design]]
 
-This is for the designs of the windows, database and all that. here in stand the concepts and ideas and goals for the design of these points of intrest.
+This is for the designs of the windows, database and all that. here in stand the concepts and ideas and goals for the design of these points of interest.
 
 

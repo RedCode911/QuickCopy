@@ -14,54 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QuickCopy.md",
+                "file": "Desing/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuickCopy"
-            }
-          },
-          {
-            "id": "3e86346f37abbc6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/QuickCopy/Business Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Layer"
-            }
-          },
-          {
-            "id": "f7d47d7a67b30bee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/QuickCopy/User Interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User Interface"
-            }
-          },
-          {
-            "id": "a137a8daefc4e628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/QuickCopy/App Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "App Design"
+              "title": "Design"
             }
           }
         ]
@@ -247,29 +205,30 @@
   "active": "43396141eb7fd4d6",
   "lastOpenFiles": [
     "Desing/Windows/Windows.md",
+    "Desing/Windows/Editing Window.md",
+    "Desing/Windows/Copy Window.md",
+    "Desing/Windows/Login Window.md",
+    "Desing/Windows/Vault Window.md",
     "Desing/Design.md",
     "QuickCopy.md",
-    "Desing/Windows/Vault Window.md",
-    "Desing/Windows/Copy Window.md",
-    "Desing/Windows/Editing Window.md",
-    "Desing/Windows/Login Window.md",
+    "Desing/Business Layer/BL",
+    "Desing/DB/Data Bank.md",
+    "Desing/DB",
+    "Desing/DL",
+    "Desing/BL",
     "UI/UI.md",
     "Untitled.base",
     "Desing/Windows",
     "QuickCopy/Design/UI/Vault Window",
-    "DL",
-    "UI",
+    "Data Layer",
+    "User Interface",
     "QuickCopy/Business Layer.md",
     "QuickCopy/Concept.md",
     "QuickCopy/Data Bank.md",
     "QuickCopy/Data Layer.md",
     "QuickCopy/User Interface.md",
     "QuickCopy/App Design.md",
-    "BL",
-    "Desing",
-    "QuickCopy/Folder System",
-    "school/digitale werkomgeving",
-    "school/programeren gevorderd",
+    "Business Layer",
     "create a link.md",
     "Welcome.md",
     "Untitled 1.canvas",
